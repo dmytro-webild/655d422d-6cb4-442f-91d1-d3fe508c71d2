@@ -72,13 +72,7 @@ export default function LandingPage() {
         {
           videoSrc: "http://img.b2bpic.net/free-photo/view-chef-working-kitchen_23-2149728012.jpg",          imageAlt: "Gourmet food preparation in slow motion",          imageSrc: "http://img.b2bpic.net/free-photo/view-chef-working-kitchen_23-2149728012.jpg"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/hand-plate-with-fish-cooked-fish-juicy-fish-plate-delicacy-seafood-lovers_639032-339.jpg",          imageAlt: "Elegant fine dining setting"},
-        {
-          imageSrc: "http://img.b2bpic.net/free-photo/female-chef-kitchen-frying-food_23-2149720777.jpg",          imageAlt: "Female chef in the kitchen frying food"},
-        {
-          imageSrc: "http://img.b2bpic.net/free-photo/female-chef-removing-apple-skin_23-2148763193.jpg",          imageAlt: "Female chef removing apple skin"},
-        {
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-mushroom-frying-with-salt-fire-human-hand-pan_176474-3146.jpg",          imageAlt: "Side view mushroom frying with salt and fire and human hand in pan"},
+          imageSrc: "http://img.b2bpic.net/free-photo/hand-plate-with-fish-cooked-fish-juicy-fish-plate-delicacy-seafood-lovers_639032-339.jpg",          imageAlt: "Elegant fine dining setting"}
       ]}
       mediaAnimation="opacity"
       rating={5}
@@ -97,7 +91,6 @@ export default function LandingPage() {
           text: "Discover Our Philosophy",          href: "#chef-experience"},
       ]}
       buttonAnimation="blur-reveal"
-      description="Mallow redefines plant-based dining with a commitment to sustainable sourcing, seasonal ingredients, and local partnerships within the historic Borough Market. Our culinary craftsmanship transforms nature's bounty into exceptional dishes, reflecting a deep respect for both tradition and innovation."
     />
   </div>
 
@@ -253,8 +246,8 @@ export default function LandingPage() {
         {
           src: "http://img.b2bpic.net/free-photo/handsome-man-thinking-using-digital-tablet-shopping-online-pondering-ideas-looking-upper_1258-160469.jpg",          alt: "Laura White"},
       ]}
-      ratingAnimation="reveal-blur"
-      avatarsAnimation="reveal-blur"
+      ratingAnimation="blur-reveal"
+      avatarsAnimation="blur-reveal"
     />
   </div>
 
