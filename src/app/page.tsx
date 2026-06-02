@@ -238,7 +238,7 @@ export default function LandingPage() {
   <div id="testimonials" data-section="testimonials">
       <TestimonialCardFifteen
       useInvertedBackground={false}
-      testimonial=""Mallow is a triumph of plant-based cuisine, an exquisite journey for the senses. Every dish is a work of art, a testament to their dedication to flavor and sustainability. A true gem in London's dining scene."
+      testimonial="Mallow is a triumph of plant-based cuisine, an exquisite journey for the senses. Every dish is a work of art, a testament to their dedication to flavor and sustainability. A true gem in London's dining scene."
       rating={5}
       author="Isabella Chen, Food Critic"
       avatars={[
