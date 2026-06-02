@@ -89,9 +89,9 @@ export default function LandingPage() {
       buttonAnimation="blur-reveal"
       mediaItems={[
         {
-          videoSrc: "http://img.b2bpic.net/free-photo/view-chef-working-kitchen_23-2149728012.jpg",
+          videoSrc: "http://img.b2bpic.net/free-photo/view-chef-working-kitchen_23-2149728012.jpg?_wi=1",
           imageAlt: "Gourmet food preparation in slow motion",
-          imageSrc: "http://img.b2bpic.net/free-photo/view-chef-working-kitchen_23-2149728012.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-chef-working-kitchen_23-2149728012.jpg?_wi=2",
         },
         {
           imageSrc: "http://img.b2bpic.net/free-photo/hand-plate-with-fish-cooked-fish-juicy-fish-plate-delicacy-seafood-lovers_639032-339.jpg",
